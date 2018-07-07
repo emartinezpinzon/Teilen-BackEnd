@@ -1,0 +1,14 @@
+{
+  "secret_key":"ANY_KEY",
+  "db":{
+    "ENGINE":"django.db.backends.mysql",
+      "NAME": "Teilen",
+      "USER": "YOUR_USER",
+      "PASSWORD": "YOUR_PASS",
+      "HOST": "YOUR_HOST",
+      "PORT": "YOUR_PORT"
+  },
+  "email_host":"EXAMPLE@EXAMPLE.COM",
+  "from_email":"EXAMPLE@EXAMPLE.COM",
+  "email_password":"PASSWORD"
+}
